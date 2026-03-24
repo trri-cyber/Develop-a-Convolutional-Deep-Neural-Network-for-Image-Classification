@@ -8,7 +8,8 @@ Image classification is a fundamental task in computer vision where images are a
 
 ## Neural Network Model
 
-<img width="998" height="698" alt="image" src="https://github.com/user-attachments/assets/1644c565-424d-428c-975e-a8337ead2c39" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b9c10d94-218b-4609-97ad-b39a8511863b" />
+
 ## DESIGN STEPS
 1. Load and Preprocess Data
 2. Get the shape of the first image in the training dataset
